@@ -1,6 +1,5 @@
-# fluffy-system
+# slackbot-framework
 Python library for a Slack bot.  
-Github chose the repo name for me... don't laugh at me.
 
 ## Description
 This is a Python library that allows you to build your own Slack bot with relatively little effort.  
